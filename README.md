@@ -94,8 +94,8 @@ The Teacher AI's strategy is designed for offensive (first player) play rather t
 | Configuration | Teacher 1 (X) | Teacher 2 (O) | T1 Wins | T2 Wins | Draws |
 |---------------|---------------|---------------|---------|---------|-------|
 | Both Perfect  | 100%          | 100%          | 100%    | 0%      | 0%    |
-| T1 Perfect, T2 Hard | 100%  | 90%           | ~95%    | ~0%     | ~5%   |
-| Both Hard     | 90%           | 90%           | ~85%    | ~5%     | ~10%  |
+| T1 Perfect, T2 Hard | 100%  | 90%           | ~94%    | ~0%     | ~6%   |
+| Both Hard     | 90%           | 90%           | ~78%    | ~7%     | ~15%  |
 
 **Conclusion**: The Teacher AI only plays optimally as X (first position), not as O (second position).
 
