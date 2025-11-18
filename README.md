@@ -119,6 +119,3 @@ The Teacher vs Teacher analysis generates graphs showing:
 - Green line: Draws
 - Statistics box with final percentages
 
-## License
-
-Educational project - free to use and modify.
